@@ -10,6 +10,7 @@ namespace Moore
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine(15);
         }
     } 
 }
